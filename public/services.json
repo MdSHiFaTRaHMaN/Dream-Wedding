@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/fN2sbP5/Screenshot-2023-10-07-011024.png",
+      "bg_img": "https://i.ibb.co/dWPmJRp/Screenshot-2023-10-09-230943.png",
+      "title": "Invitation",
+      "description": "Best Wedding Card Designing and Printing Services."
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/xCbS9bq/Screenshot-2023-10-07-011108.png",
+      "bg_img": "https://i.ibb.co/XLKjLR0/Screenshot-2023-10-07-004139.png",
+      "title": "Wedding Flowers",
+      "description": "Wedding flowers & bouquets available online from award winning florists."
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/Y3G6HxR/Screenshot-2023-10-07-011224.png",
+      "bg_img": "https://i.ibb.co/pP66m5v/Screenshot-2023-10-07-003856.png",
+      "title": "Beauty & Makeup",
+      "description": " Blo Blow Dry Bar beauty our expert makeup artists will help bring your makeup goals to life."
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/Wz7TZf9/Screenshot-2023-10-07-011840.png",
+      "bg_img": "https://i.ibb.co/v3MyRJj/Screenshot-2023-10-07-004229.png",
+      "title": "Wedding Cake",
+      "description": "Delivery; About us. Product Categories. Sweet Memory · Counter Cake · Royal Icing · All Cakes · Breads & Buns."
+    },
+    {
+      "id": 5,
+      "logo": "https://i.ibb.co/KNZK3BD/Screenshot-2023-10-07-010851.png",
+      "bg_img": "https://i.ibb.co/nzpXGBK/Screenshot-2023-10-09-231140.png",
+      "title": "Music Band",
+      "description": "Elegant Music Group provides a portfolio of music services including top wedding bands."
+    },
+    {
+      "id": 6,
+      "logo": "https://i.ibb.co/BwbRm0d/Screenshot-2023-10-07-010702.png",
+      "bg_img": "https://i.ibb.co/Wx3NPMm/Screenshot-2023-10-09-231321.png",
+      "title": "Photography & Video",
+      "description": "Typically, professional photographers will specialize in one of several categories."
+    }
+  ]
+  

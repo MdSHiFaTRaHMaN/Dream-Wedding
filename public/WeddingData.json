@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/wdGbTNK/Screenshot-2023-10-07-035543.png",
+      "title": "Dream Wedding",
+      "location": "House #81,Block D,Road # 13/A,Banani,Dhaka",
+      "address": "Banani,Dhaka",
+      "price": "$1,500 per night",
+      "number": "+1 (555) 123-4567",
+      "gmail": "john.doe@example.com",
+      "rating": 4.8,
+      "Experience": "10 years",
+      "contact_person": "John Doe"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/nkqN7CZ/Screenshot-2023-10-07-035603.png",
+      "title": "Sunset View Wedding",
+      "location": "79/A Commercial AirPort Road,Nikunja 2 Khilkhet, Dhaka",
+      "address": "Khilkhet, Dhaka",
+      "price": "$200 per night",
+      "number": "+1 (555) 987-6543",
+      "gmail": "jane.smith@example.com",
+      "rating": 4.5,
+      "Experience": "5 years",
+      "contact_person": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/grTd3Kw/Screenshot-2023-10-07-035622.png",
+      "title": "Big Day Celebrations",
+      "location": "47, Road No 41, Gulshan-2, Dhaka",
+      "address": "Gulshan-2, Dhaka",
+      "price": "$800 per night",
+      "number": "+1 (555) 777-8888",
+      "gmail": "sam.johnson@example.com",
+      "rating": 4.9,
+      "Experience": "7 years",
+      "contact_person": "Sam Johnson"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/g74JH5B/Screenshot-2023-10-07-035644.png",
+      "title": "Wedding Wonderland",
+      "location": "212 Shahid Syed Nazrul Islam Sharani, Bijoynagar, Dhaka",
+      "address": "Bijoynagar, Dhaka",
+      "price": "$300 per night",
+      "number": "+1 (555) 456-7890",
+      "gmail": "emily.wilson@example.com",
+      "rating": 4.2,
+      "Experience": "3 years",
+      "contact_person": "Emily Wilson"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/kK49T4s/Screenshot-2023-10-07-035705.png",
+      "title": "Lovely Waterside",
+      "location": "27 Park Road Baridhara, Diplomatic Zone,Dhaka",
+      "address": " Diplomatic Zone,Dhaka",
+      "price": "$250 per night",
+      "number": "+1 (555) 234-5678",
+      "gmail": "david.brown@example.com",
+      "rating": 4.6,
+      "Experience": "6 years",
+      "contact_person": "David Brown"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/Y0LNJXb/Screenshot-2023-10-07-035809.png",
+      "title": "Beach Wedding Place",
+      "location": "House-4, Road-9, Sector-6, Uttara, Dhaka",
+      "address": "Uttara, Dhaka",
+      "price": "$600 per night",
+      "number": "+1 (555) 345-6789",
+      "gmail": "susan.williams@example.com",
+      "rating": 4.7,
+      "Experience": "8 years",
+      "contact_person": "Susan Williams"
+    }
+  ]
+  

@@ -1,6 +1,4 @@
-import Video from "../../assets/video.mp4" 
-import Video2 from "../../assets/kvideo.mp4"; 
-import Video3 from "../../assets/video3.mp4"; 
+
 
 import { useRef, useEffect } from 'react';
 const BlogPage = () => {
@@ -26,7 +24,7 @@ const BlogPage = () => {
   <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6  mb-10 md:mb-0">
     <video className="object-cover object-center rounded h-[450px] w-[400px]" ref={videoRef}
-        src={Video} autoPlay></video> 
+        src="" autoPlay></video> 
            </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-3 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
      <h1 className="text-2xl font-bold text-green-600 mb-4">Wedding Funtion</h1>
@@ -49,12 +47,12 @@ const BlogPage = () => {
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6  mb-10 md:mb-0">
         <video className="object-cover object-center rounded h-[450px] w-[400px]" ref={videoRef}
-        src={Video2} autoPlay></video>
+        src="{Video2}" autoPlay></video>
     </div>
   </div>
   <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6  mb-10 md:mb-0">
-    <video ref={videoRef} className="object-cover object-center rounded h-[450px] w-[400px]" src={Video3} autoPlay></video>
+    <video ref={videoRef} className="object-cover object-center rounded h-[450px] w-[400px]" src="{Video3}" autoPlay></video>
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-3 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
     <h1 className="text-2xl font-bold text-green-600 mb-4">Wedding Funtion</h1>
